@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955888087234",
+    "firebase_url": "https://sliderissa.firebaseio.com",
+    "project_id": "sliderissa",
+    "storage_bucket": "sliderissa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955888087234:android:33edca7e68680ef6a68b5b",
+        "android_client_info": {
+          "package_name": "com.issa.sliderissa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955888087234-3ohj1bofl58p1jrlesrigcqu49qot6us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issa.sliderissa",
+            "certificate_hash": "46f5d5b989103025f850b77dad6d4971af3dfa2e"
+          }
+        },
+        {
+          "client_id": "955888087234-n4i8ppot775m1suptq1k9vhcrutqp751.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5zxLLWXh2wk6sOyNzs1ex116L_UpMZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955888087234-n4i8ppot775m1suptq1k9vhcrutqp751.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
